@@ -1,1 +1,12 @@
-
+{
+  "number ID":1,
+  "Title":"Link 'create new account' Global Menu isn't open when clicking",
+  "Seveity":"critical",
+  "Priority":"hight",
+  "STR":{
+    "1":"Open link",
+    "2":"Tap to button 'create new account'"
+  },
+  "Expected Result":"Registration's window is opened",
+  "Actual Result":"nothing happens, link isn't opened"
+}
