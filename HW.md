@@ -29,10 +29,10 @@ git remote add origin https://github.com/WINDNOISE0/JSON.git
 git branch -M main
 
 git push -u origin main    
-
+***
 10. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.
 
-#cat >> new.json
+ #cat >> new.json
 
 ```
 {
